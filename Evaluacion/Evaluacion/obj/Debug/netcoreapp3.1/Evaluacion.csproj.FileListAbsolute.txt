@@ -1,0 +1,11 @@
+C:\Users\uwu\source\repos\Evaluacion\Evaluacion\obj\Debug\netcoreapp3.1\Evaluacion.csprojAssemblyReference.cache
+C:\Users\uwu\source\repos\Evaluacion\Evaluacion\obj\Debug\netcoreapp3.1\Evaluacion.AssemblyInfoInputs.cache
+C:\Users\uwu\source\repos\Evaluacion\Evaluacion\obj\Debug\netcoreapp3.1\Evaluacion.AssemblyInfo.cs
+C:\Users\uwu\source\repos\Evaluacion\Evaluacion\bin\Debug\netcoreapp3.1\Evaluacion.exe
+C:\Users\uwu\source\repos\Evaluacion\Evaluacion\bin\Debug\netcoreapp3.1\Evaluacion.deps.json
+C:\Users\uwu\source\repos\Evaluacion\Evaluacion\bin\Debug\netcoreapp3.1\Evaluacion.runtimeconfig.json
+C:\Users\uwu\source\repos\Evaluacion\Evaluacion\bin\Debug\netcoreapp3.1\Evaluacion.runtimeconfig.dev.json
+C:\Users\uwu\source\repos\Evaluacion\Evaluacion\bin\Debug\netcoreapp3.1\Evaluacion.dll
+C:\Users\uwu\source\repos\Evaluacion\Evaluacion\bin\Debug\netcoreapp3.1\Evaluacion.pdb
+C:\Users\uwu\source\repos\Evaluacion\Evaluacion\obj\Debug\netcoreapp3.1\Evaluacion.dll
+C:\Users\uwu\source\repos\Evaluacion\Evaluacion\obj\Debug\netcoreapp3.1\Evaluacion.pdb
