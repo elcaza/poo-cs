@@ -1,0 +1,11 @@
+C:\Users\uwu\source\repos\FPalabra\FPalabra\bin\Debug\netcoreapp3.1\FPalabra.exe
+C:\Users\uwu\source\repos\FPalabra\FPalabra\bin\Debug\netcoreapp3.1\FPalabra.deps.json
+C:\Users\uwu\source\repos\FPalabra\FPalabra\bin\Debug\netcoreapp3.1\FPalabra.runtimeconfig.json
+C:\Users\uwu\source\repos\FPalabra\FPalabra\bin\Debug\netcoreapp3.1\FPalabra.runtimeconfig.dev.json
+C:\Users\uwu\source\repos\FPalabra\FPalabra\bin\Debug\netcoreapp3.1\FPalabra.dll
+C:\Users\uwu\source\repos\FPalabra\FPalabra\bin\Debug\netcoreapp3.1\FPalabra.pdb
+C:\Users\uwu\source\repos\FPalabra\FPalabra\obj\Debug\netcoreapp3.1\FPalabra.csprojAssemblyReference.cache
+C:\Users\uwu\source\repos\FPalabra\FPalabra\obj\Debug\netcoreapp3.1\FPalabra.AssemblyInfoInputs.cache
+C:\Users\uwu\source\repos\FPalabra\FPalabra\obj\Debug\netcoreapp3.1\FPalabra.AssemblyInfo.cs
+C:\Users\uwu\source\repos\FPalabra\FPalabra\obj\Debug\netcoreapp3.1\FPalabra.dll
+C:\Users\uwu\source\repos\FPalabra\FPalabra\obj\Debug\netcoreapp3.1\FPalabra.pdb
