@@ -1,0 +1,11 @@
+C:\Users\uwu\source\repos\Sumatoria_N\Sumatoria_N\bin\Debug\netcoreapp3.1\Sumatoria_N.exe
+C:\Users\uwu\source\repos\Sumatoria_N\Sumatoria_N\bin\Debug\netcoreapp3.1\Sumatoria_N.deps.json
+C:\Users\uwu\source\repos\Sumatoria_N\Sumatoria_N\bin\Debug\netcoreapp3.1\Sumatoria_N.runtimeconfig.json
+C:\Users\uwu\source\repos\Sumatoria_N\Sumatoria_N\bin\Debug\netcoreapp3.1\Sumatoria_N.runtimeconfig.dev.json
+C:\Users\uwu\source\repos\Sumatoria_N\Sumatoria_N\bin\Debug\netcoreapp3.1\Sumatoria_N.dll
+C:\Users\uwu\source\repos\Sumatoria_N\Sumatoria_N\bin\Debug\netcoreapp3.1\Sumatoria_N.pdb
+C:\Users\uwu\source\repos\Sumatoria_N\Sumatoria_N\obj\Debug\netcoreapp3.1\Sumatoria_N.csprojAssemblyReference.cache
+C:\Users\uwu\source\repos\Sumatoria_N\Sumatoria_N\obj\Debug\netcoreapp3.1\Sumatoria_N.AssemblyInfoInputs.cache
+C:\Users\uwu\source\repos\Sumatoria_N\Sumatoria_N\obj\Debug\netcoreapp3.1\Sumatoria_N.AssemblyInfo.cs
+C:\Users\uwu\source\repos\Sumatoria_N\Sumatoria_N\obj\Debug\netcoreapp3.1\Sumatoria_N.dll
+C:\Users\uwu\source\repos\Sumatoria_N\Sumatoria_N\obj\Debug\netcoreapp3.1\Sumatoria_N.pdb

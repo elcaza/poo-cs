@@ -1,0 +1,11 @@
+C:\Users\uwu\source\repos\ClapProgram\ClapProgram\bin\Debug\netcoreapp3.1\ClapProgram.exe
+C:\Users\uwu\source\repos\ClapProgram\ClapProgram\bin\Debug\netcoreapp3.1\ClapProgram.deps.json
+C:\Users\uwu\source\repos\ClapProgram\ClapProgram\bin\Debug\netcoreapp3.1\ClapProgram.runtimeconfig.json
+C:\Users\uwu\source\repos\ClapProgram\ClapProgram\bin\Debug\netcoreapp3.1\ClapProgram.runtimeconfig.dev.json
+C:\Users\uwu\source\repos\ClapProgram\ClapProgram\bin\Debug\netcoreapp3.1\ClapProgram.dll
+C:\Users\uwu\source\repos\ClapProgram\ClapProgram\bin\Debug\netcoreapp3.1\ClapProgram.pdb
+C:\Users\uwu\source\repos\ClapProgram\ClapProgram\obj\Debug\netcoreapp3.1\ClapProgram.AssemblyInfoInputs.cache
+C:\Users\uwu\source\repos\ClapProgram\ClapProgram\obj\Debug\netcoreapp3.1\ClapProgram.AssemblyInfo.cs
+C:\Users\uwu\source\repos\ClapProgram\ClapProgram\obj\Debug\netcoreapp3.1\ClapProgram.dll
+C:\Users\uwu\source\repos\ClapProgram\ClapProgram\obj\Debug\netcoreapp3.1\ClapProgram.pdb
+C:\Users\uwu\source\repos\ClapProgram\ClapProgram\obj\Debug\netcoreapp3.1\ClapProgram.csprojAssemblyReference.cache
