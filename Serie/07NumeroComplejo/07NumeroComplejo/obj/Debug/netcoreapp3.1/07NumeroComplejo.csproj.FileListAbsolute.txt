@@ -1,0 +1,11 @@
+C:\Users\uwu\source\repos\07NumeroComplejo\07NumeroComplejo\bin\Debug\netcoreapp3.1\07NumeroComplejo.exe
+C:\Users\uwu\source\repos\07NumeroComplejo\07NumeroComplejo\bin\Debug\netcoreapp3.1\07NumeroComplejo.deps.json
+C:\Users\uwu\source\repos\07NumeroComplejo\07NumeroComplejo\bin\Debug\netcoreapp3.1\07NumeroComplejo.runtimeconfig.json
+C:\Users\uwu\source\repos\07NumeroComplejo\07NumeroComplejo\bin\Debug\netcoreapp3.1\07NumeroComplejo.runtimeconfig.dev.json
+C:\Users\uwu\source\repos\07NumeroComplejo\07NumeroComplejo\bin\Debug\netcoreapp3.1\07NumeroComplejo.dll
+C:\Users\uwu\source\repos\07NumeroComplejo\07NumeroComplejo\bin\Debug\netcoreapp3.1\07NumeroComplejo.pdb
+C:\Users\uwu\source\repos\07NumeroComplejo\07NumeroComplejo\obj\Debug\netcoreapp3.1\07NumeroComplejo.csprojAssemblyReference.cache
+C:\Users\uwu\source\repos\07NumeroComplejo\07NumeroComplejo\obj\Debug\netcoreapp3.1\07NumeroComplejo.AssemblyInfoInputs.cache
+C:\Users\uwu\source\repos\07NumeroComplejo\07NumeroComplejo\obj\Debug\netcoreapp3.1\07NumeroComplejo.AssemblyInfo.cs
+C:\Users\uwu\source\repos\07NumeroComplejo\07NumeroComplejo\obj\Debug\netcoreapp3.1\07NumeroComplejo.dll
+C:\Users\uwu\source\repos\07NumeroComplejo\07NumeroComplejo\obj\Debug\netcoreapp3.1\07NumeroComplejo.pdb

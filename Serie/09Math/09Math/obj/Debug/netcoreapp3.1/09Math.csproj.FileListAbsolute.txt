@@ -1,0 +1,11 @@
+C:\Users\uwu\source\repos\09Math\09Math\bin\Debug\netcoreapp3.1\09Math.exe
+C:\Users\uwu\source\repos\09Math\09Math\bin\Debug\netcoreapp3.1\09Math.deps.json
+C:\Users\uwu\source\repos\09Math\09Math\bin\Debug\netcoreapp3.1\09Math.runtimeconfig.json
+C:\Users\uwu\source\repos\09Math\09Math\bin\Debug\netcoreapp3.1\09Math.runtimeconfig.dev.json
+C:\Users\uwu\source\repos\09Math\09Math\bin\Debug\netcoreapp3.1\09Math.dll
+C:\Users\uwu\source\repos\09Math\09Math\bin\Debug\netcoreapp3.1\09Math.pdb
+C:\Users\uwu\source\repos\09Math\09Math\obj\Debug\netcoreapp3.1\09Math.csprojAssemblyReference.cache
+C:\Users\uwu\source\repos\09Math\09Math\obj\Debug\netcoreapp3.1\09Math.AssemblyInfoInputs.cache
+C:\Users\uwu\source\repos\09Math\09Math\obj\Debug\netcoreapp3.1\09Math.AssemblyInfo.cs
+C:\Users\uwu\source\repos\09Math\09Math\obj\Debug\netcoreapp3.1\09Math.dll
+C:\Users\uwu\source\repos\09Math\09Math\obj\Debug\netcoreapp3.1\09Math.pdb

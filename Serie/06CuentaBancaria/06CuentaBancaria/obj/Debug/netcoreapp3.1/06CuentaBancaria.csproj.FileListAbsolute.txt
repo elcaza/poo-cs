@@ -1,0 +1,11 @@
+C:\Users\uwu\source\repos\06CuentaBancaria\06CuentaBancaria\obj\Debug\netcoreapp3.1\06CuentaBancaria.csprojAssemblyReference.cache
+C:\Users\uwu\source\repos\06CuentaBancaria\06CuentaBancaria\obj\Debug\netcoreapp3.1\06CuentaBancaria.AssemblyInfoInputs.cache
+C:\Users\uwu\source\repos\06CuentaBancaria\06CuentaBancaria\obj\Debug\netcoreapp3.1\06CuentaBancaria.AssemblyInfo.cs
+C:\Users\uwu\source\repos\06CuentaBancaria\06CuentaBancaria\bin\Debug\netcoreapp3.1\06CuentaBancaria.exe
+C:\Users\uwu\source\repos\06CuentaBancaria\06CuentaBancaria\bin\Debug\netcoreapp3.1\06CuentaBancaria.deps.json
+C:\Users\uwu\source\repos\06CuentaBancaria\06CuentaBancaria\bin\Debug\netcoreapp3.1\06CuentaBancaria.runtimeconfig.json
+C:\Users\uwu\source\repos\06CuentaBancaria\06CuentaBancaria\bin\Debug\netcoreapp3.1\06CuentaBancaria.runtimeconfig.dev.json
+C:\Users\uwu\source\repos\06CuentaBancaria\06CuentaBancaria\bin\Debug\netcoreapp3.1\06CuentaBancaria.dll
+C:\Users\uwu\source\repos\06CuentaBancaria\06CuentaBancaria\bin\Debug\netcoreapp3.1\06CuentaBancaria.pdb
+C:\Users\uwu\source\repos\06CuentaBancaria\06CuentaBancaria\obj\Debug\netcoreapp3.1\06CuentaBancaria.dll
+C:\Users\uwu\source\repos\06CuentaBancaria\06CuentaBancaria\obj\Debug\netcoreapp3.1\06CuentaBancaria.pdb

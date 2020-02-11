@@ -1,0 +1,11 @@
+C:\Users\uwu\source\repos\08Auto\08Auto\bin\Debug\netcoreapp3.1\08Auto.exe
+C:\Users\uwu\source\repos\08Auto\08Auto\bin\Debug\netcoreapp3.1\08Auto.deps.json
+C:\Users\uwu\source\repos\08Auto\08Auto\bin\Debug\netcoreapp3.1\08Auto.runtimeconfig.json
+C:\Users\uwu\source\repos\08Auto\08Auto\bin\Debug\netcoreapp3.1\08Auto.runtimeconfig.dev.json
+C:\Users\uwu\source\repos\08Auto\08Auto\bin\Debug\netcoreapp3.1\08Auto.dll
+C:\Users\uwu\source\repos\08Auto\08Auto\bin\Debug\netcoreapp3.1\08Auto.pdb
+C:\Users\uwu\source\repos\08Auto\08Auto\obj\Debug\netcoreapp3.1\08Auto.csprojAssemblyReference.cache
+C:\Users\uwu\source\repos\08Auto\08Auto\obj\Debug\netcoreapp3.1\08Auto.AssemblyInfoInputs.cache
+C:\Users\uwu\source\repos\08Auto\08Auto\obj\Debug\netcoreapp3.1\08Auto.AssemblyInfo.cs
+C:\Users\uwu\source\repos\08Auto\08Auto\obj\Debug\netcoreapp3.1\08Auto.dll
+C:\Users\uwu\source\repos\08Auto\08Auto\obj\Debug\netcoreapp3.1\08Auto.pdb

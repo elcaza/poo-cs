@@ -1,0 +1,11 @@
+C:\Users\uwu\source\repos\DatosPersona\DatosPersona\bin\Debug\netcoreapp3.1\DatosPersona.exe
+C:\Users\uwu\source\repos\DatosPersona\DatosPersona\bin\Debug\netcoreapp3.1\DatosPersona.deps.json
+C:\Users\uwu\source\repos\DatosPersona\DatosPersona\bin\Debug\netcoreapp3.1\DatosPersona.runtimeconfig.json
+C:\Users\uwu\source\repos\DatosPersona\DatosPersona\bin\Debug\netcoreapp3.1\DatosPersona.runtimeconfig.dev.json
+C:\Users\uwu\source\repos\DatosPersona\DatosPersona\bin\Debug\netcoreapp3.1\DatosPersona.dll
+C:\Users\uwu\source\repos\DatosPersona\DatosPersona\bin\Debug\netcoreapp3.1\DatosPersona.pdb
+C:\Users\uwu\source\repos\DatosPersona\DatosPersona\obj\Debug\netcoreapp3.1\DatosPersona.csprojAssemblyReference.cache
+C:\Users\uwu\source\repos\DatosPersona\DatosPersona\obj\Debug\netcoreapp3.1\DatosPersona.AssemblyInfoInputs.cache
+C:\Users\uwu\source\repos\DatosPersona\DatosPersona\obj\Debug\netcoreapp3.1\DatosPersona.AssemblyInfo.cs
+C:\Users\uwu\source\repos\DatosPersona\DatosPersona\obj\Debug\netcoreapp3.1\DatosPersona.dll
+C:\Users\uwu\source\repos\DatosPersona\DatosPersona\obj\Debug\netcoreapp3.1\DatosPersona.pdb
