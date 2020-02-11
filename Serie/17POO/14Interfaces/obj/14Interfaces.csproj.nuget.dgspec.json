@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\uwu\\source\\repos\\17POO\\17POO\\17POO.csproj": {}
+    "C:\\Users\\uwu\\Documents\\poo\\git_r\\Serie\\17POO 2\\14Interfaces\\14Interfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\uwu\\source\\repos\\17POO\\17POO\\17POO.csproj": {
+    "C:\\Users\\uwu\\Documents\\poo\\git_r\\Serie\\17POO 2\\14Interfaces\\14Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uwu\\source\\repos\\17POO\\17POO\\17POO.csproj",
-        "projectName": "17POO",
-        "projectPath": "C:\\Users\\uwu\\source\\repos\\17POO\\17POO\\17POO.csproj",
+        "projectUniqueName": "C:\\Users\\uwu\\Documents\\poo\\git_r\\Serie\\17POO 2\\14Interfaces\\14Interfaces.csproj",
+        "projectName": "14Interfaces",
+        "projectPath": "C:\\Users\\uwu\\Documents\\poo\\git_r\\Serie\\17POO 2\\14Interfaces\\14Interfaces.csproj",
         "packagesPath": "C:\\Users\\uwu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uwu\\source\\repos\\17POO\\17POO\\obj\\",
+        "outputPath": "C:\\Users\\uwu\\Documents\\poo\\git_r\\Serie\\17POO 2\\14Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\uwu\\AppData\\Roaming\\NuGet\\NuGet.Config",

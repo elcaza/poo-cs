@@ -1,0 +1,33 @@
+C:\Users\uwu\source\repos\14Interfaces\14Interfaces\bin\Debug\netcoreapp3.1\14Interfaces.exe
+C:\Users\uwu\source\repos\14Interfaces\14Interfaces\bin\Debug\netcoreapp3.1\14Interfaces.deps.json
+C:\Users\uwu\source\repos\14Interfaces\14Interfaces\bin\Debug\netcoreapp3.1\14Interfaces.runtimeconfig.json
+C:\Users\uwu\source\repos\14Interfaces\14Interfaces\bin\Debug\netcoreapp3.1\14Interfaces.runtimeconfig.dev.json
+C:\Users\uwu\source\repos\14Interfaces\14Interfaces\bin\Debug\netcoreapp3.1\14Interfaces.dll
+C:\Users\uwu\source\repos\14Interfaces\14Interfaces\bin\Debug\netcoreapp3.1\14Interfaces.pdb
+C:\Users\uwu\source\repos\14Interfaces\14Interfaces\obj\Debug\netcoreapp3.1\14Interfaces.csprojAssemblyReference.cache
+C:\Users\uwu\source\repos\14Interfaces\14Interfaces\obj\Debug\netcoreapp3.1\14Interfaces.AssemblyInfoInputs.cache
+C:\Users\uwu\source\repos\14Interfaces\14Interfaces\obj\Debug\netcoreapp3.1\14Interfaces.AssemblyInfo.cs
+C:\Users\uwu\source\repos\14Interfaces\14Interfaces\obj\Debug\netcoreapp3.1\14Interfaces.dll
+C:\Users\uwu\source\repos\14Interfaces\14Interfaces\obj\Debug\netcoreapp3.1\14Interfaces.pdb
+C:\Users\uwu\Documents\poo\git_r\Serie\14Interfaces - Copy\14Interfaces\obj\Debug\netcoreapp3.1\14Interfaces.csprojAssemblyReference.cache
+C:\Users\uwu\Documents\poo\git_r\Serie\14Interfaces - Copy\14Interfaces\obj\Debug\netcoreapp3.1\14Interfaces.AssemblyInfoInputs.cache
+C:\Users\uwu\Documents\poo\git_r\Serie\14Interfaces - Copy\14Interfaces\obj\Debug\netcoreapp3.1\14Interfaces.AssemblyInfo.cs
+C:\Users\uwu\Documents\poo\git_r\Serie\14Interfaces - Copy\14Interfaces\obj\Debug\netcoreapp3.1\14Interfaces.dll
+C:\Users\uwu\Documents\poo\git_r\Serie\14Interfaces - Copy\14Interfaces\obj\Debug\netcoreapp3.1\14Interfaces.pdb
+C:\Users\uwu\Documents\poo\git_r\Serie\14Interfaces - Copy\14Interfaces\bin\Debug\netcoreapp3.1\14Interfaces.exe
+C:\Users\uwu\Documents\poo\git_r\Serie\14Interfaces - Copy\14Interfaces\bin\Debug\netcoreapp3.1\14Interfaces.deps.json
+C:\Users\uwu\Documents\poo\git_r\Serie\14Interfaces - Copy\14Interfaces\bin\Debug\netcoreapp3.1\14Interfaces.runtimeconfig.json
+C:\Users\uwu\Documents\poo\git_r\Serie\14Interfaces - Copy\14Interfaces\bin\Debug\netcoreapp3.1\14Interfaces.runtimeconfig.dev.json
+C:\Users\uwu\Documents\poo\git_r\Serie\14Interfaces - Copy\14Interfaces\bin\Debug\netcoreapp3.1\14Interfaces.dll
+C:\Users\uwu\Documents\poo\git_r\Serie\14Interfaces - Copy\14Interfaces\bin\Debug\netcoreapp3.1\14Interfaces.pdb
+C:\Users\uwu\Documents\poo\git_r\Serie\17POO 2\14Interfaces\bin\Debug\netcoreapp3.1\14Interfaces.exe
+C:\Users\uwu\Documents\poo\git_r\Serie\17POO 2\14Interfaces\bin\Debug\netcoreapp3.1\14Interfaces.deps.json
+C:\Users\uwu\Documents\poo\git_r\Serie\17POO 2\14Interfaces\bin\Debug\netcoreapp3.1\14Interfaces.runtimeconfig.json
+C:\Users\uwu\Documents\poo\git_r\Serie\17POO 2\14Interfaces\bin\Debug\netcoreapp3.1\14Interfaces.runtimeconfig.dev.json
+C:\Users\uwu\Documents\poo\git_r\Serie\17POO 2\14Interfaces\bin\Debug\netcoreapp3.1\14Interfaces.dll
+C:\Users\uwu\Documents\poo\git_r\Serie\17POO 2\14Interfaces\bin\Debug\netcoreapp3.1\14Interfaces.pdb
+C:\Users\uwu\Documents\poo\git_r\Serie\17POO 2\14Interfaces\obj\Debug\netcoreapp3.1\14Interfaces.csprojAssemblyReference.cache
+C:\Users\uwu\Documents\poo\git_r\Serie\17POO 2\14Interfaces\obj\Debug\netcoreapp3.1\14Interfaces.AssemblyInfoInputs.cache
+C:\Users\uwu\Documents\poo\git_r\Serie\17POO 2\14Interfaces\obj\Debug\netcoreapp3.1\14Interfaces.AssemblyInfo.cs
+C:\Users\uwu\Documents\poo\git_r\Serie\17POO 2\14Interfaces\obj\Debug\netcoreapp3.1\14Interfaces.dll
+C:\Users\uwu\Documents\poo\git_r\Serie\17POO 2\14Interfaces\obj\Debug\netcoreapp3.1\14Interfaces.pdb
