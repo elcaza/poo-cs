@@ -1,0 +1,11 @@
+C:\Users\uwu\source\repos\BecarioMart\BecarioMart\obj\Debug\netcoreapp3.1\BecarioMart.csprojAssemblyReference.cache
+C:\Users\uwu\source\repos\BecarioMart\BecarioMart\obj\Debug\netcoreapp3.1\BecarioMart.AssemblyInfoInputs.cache
+C:\Users\uwu\source\repos\BecarioMart\BecarioMart\obj\Debug\netcoreapp3.1\BecarioMart.AssemblyInfo.cs
+C:\Users\uwu\source\repos\BecarioMart\BecarioMart\bin\Debug\netcoreapp3.1\BecarioMart.exe
+C:\Users\uwu\source\repos\BecarioMart\BecarioMart\bin\Debug\netcoreapp3.1\BecarioMart.deps.json
+C:\Users\uwu\source\repos\BecarioMart\BecarioMart\bin\Debug\netcoreapp3.1\BecarioMart.runtimeconfig.json
+C:\Users\uwu\source\repos\BecarioMart\BecarioMart\bin\Debug\netcoreapp3.1\BecarioMart.runtimeconfig.dev.json
+C:\Users\uwu\source\repos\BecarioMart\BecarioMart\bin\Debug\netcoreapp3.1\BecarioMart.dll
+C:\Users\uwu\source\repos\BecarioMart\BecarioMart\bin\Debug\netcoreapp3.1\BecarioMart.pdb
+C:\Users\uwu\source\repos\BecarioMart\BecarioMart\obj\Debug\netcoreapp3.1\BecarioMart.dll
+C:\Users\uwu\source\repos\BecarioMart\BecarioMart\obj\Debug\netcoreapp3.1\BecarioMart.pdb

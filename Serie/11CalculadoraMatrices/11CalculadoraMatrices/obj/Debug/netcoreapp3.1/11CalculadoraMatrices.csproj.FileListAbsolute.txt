@@ -1,0 +1,11 @@
+C:\Users\uwu\source\repos\11CalculadoraMatrices\11CalculadoraMatrices\obj\Debug\netcoreapp3.1\11CalculadoraMatrices.csprojAssemblyReference.cache
+C:\Users\uwu\source\repos\11CalculadoraMatrices\11CalculadoraMatrices\obj\Debug\netcoreapp3.1\11CalculadoraMatrices.AssemblyInfoInputs.cache
+C:\Users\uwu\source\repos\11CalculadoraMatrices\11CalculadoraMatrices\obj\Debug\netcoreapp3.1\11CalculadoraMatrices.AssemblyInfo.cs
+C:\Users\uwu\source\repos\11CalculadoraMatrices\11CalculadoraMatrices\bin\Debug\netcoreapp3.1\11CalculadoraMatrices.exe
+C:\Users\uwu\source\repos\11CalculadoraMatrices\11CalculadoraMatrices\bin\Debug\netcoreapp3.1\11CalculadoraMatrices.deps.json
+C:\Users\uwu\source\repos\11CalculadoraMatrices\11CalculadoraMatrices\bin\Debug\netcoreapp3.1\11CalculadoraMatrices.runtimeconfig.json
+C:\Users\uwu\source\repos\11CalculadoraMatrices\11CalculadoraMatrices\bin\Debug\netcoreapp3.1\11CalculadoraMatrices.runtimeconfig.dev.json
+C:\Users\uwu\source\repos\11CalculadoraMatrices\11CalculadoraMatrices\bin\Debug\netcoreapp3.1\11CalculadoraMatrices.dll
+C:\Users\uwu\source\repos\11CalculadoraMatrices\11CalculadoraMatrices\bin\Debug\netcoreapp3.1\11CalculadoraMatrices.pdb
+C:\Users\uwu\source\repos\11CalculadoraMatrices\11CalculadoraMatrices\obj\Debug\netcoreapp3.1\11CalculadoraMatrices.dll
+C:\Users\uwu\source\repos\11CalculadoraMatrices\11CalculadoraMatrices\obj\Debug\netcoreapp3.1\11CalculadoraMatrices.pdb
