@@ -1,0 +1,11 @@
+C:\Users\uwu\source\repos\13Carrito\13Carrito\obj\Debug\netcoreapp3.1\13Carrito.csprojAssemblyReference.cache
+C:\Users\uwu\source\repos\13Carrito\13Carrito\obj\Debug\netcoreapp3.1\13Carrito.AssemblyInfoInputs.cache
+C:\Users\uwu\source\repos\13Carrito\13Carrito\obj\Debug\netcoreapp3.1\13Carrito.AssemblyInfo.cs
+C:\Users\uwu\source\repos\13Carrito\13Carrito\bin\Debug\netcoreapp3.1\13Carrito.exe
+C:\Users\uwu\source\repos\13Carrito\13Carrito\bin\Debug\netcoreapp3.1\13Carrito.deps.json
+C:\Users\uwu\source\repos\13Carrito\13Carrito\bin\Debug\netcoreapp3.1\13Carrito.runtimeconfig.json
+C:\Users\uwu\source\repos\13Carrito\13Carrito\bin\Debug\netcoreapp3.1\13Carrito.runtimeconfig.dev.json
+C:\Users\uwu\source\repos\13Carrito\13Carrito\bin\Debug\netcoreapp3.1\13Carrito.dll
+C:\Users\uwu\source\repos\13Carrito\13Carrito\bin\Debug\netcoreapp3.1\13Carrito.pdb
+C:\Users\uwu\source\repos\13Carrito\13Carrito\obj\Debug\netcoreapp3.1\13Carrito.dll
+C:\Users\uwu\source\repos\13Carrito\13Carrito\obj\Debug\netcoreapp3.1\13Carrito.pdb
