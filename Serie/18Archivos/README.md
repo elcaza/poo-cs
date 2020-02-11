@@ -26,7 +26,7 @@ Una serie de multiples bytes con saltos de línea
     01101101
     01100010
     
-*No es posible ingresar bytes que lleven espacios* pues dará un error
+**No es posible ingresar bytes que lleven espacios** pues dará un error
 
     01101110 01101111 01101110 01101111 01101110 01101111
     01101101
