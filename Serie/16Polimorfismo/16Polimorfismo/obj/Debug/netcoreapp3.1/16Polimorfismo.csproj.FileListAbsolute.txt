@@ -1,0 +1,11 @@
+C:\Users\uwu\source\repos\16Polimorfismo\16Polimorfismo\bin\Debug\netcoreapp3.1\16Polimorfismo.exe
+C:\Users\uwu\source\repos\16Polimorfismo\16Polimorfismo\bin\Debug\netcoreapp3.1\16Polimorfismo.deps.json
+C:\Users\uwu\source\repos\16Polimorfismo\16Polimorfismo\bin\Debug\netcoreapp3.1\16Polimorfismo.runtimeconfig.json
+C:\Users\uwu\source\repos\16Polimorfismo\16Polimorfismo\bin\Debug\netcoreapp3.1\16Polimorfismo.runtimeconfig.dev.json
+C:\Users\uwu\source\repos\16Polimorfismo\16Polimorfismo\bin\Debug\netcoreapp3.1\16Polimorfismo.dll
+C:\Users\uwu\source\repos\16Polimorfismo\16Polimorfismo\bin\Debug\netcoreapp3.1\16Polimorfismo.pdb
+C:\Users\uwu\source\repos\16Polimorfismo\16Polimorfismo\obj\Debug\netcoreapp3.1\16Polimorfismo.csprojAssemblyReference.cache
+C:\Users\uwu\source\repos\16Polimorfismo\16Polimorfismo\obj\Debug\netcoreapp3.1\16Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\uwu\source\repos\16Polimorfismo\16Polimorfismo\obj\Debug\netcoreapp3.1\16Polimorfismo.AssemblyInfo.cs
+C:\Users\uwu\source\repos\16Polimorfismo\16Polimorfismo\obj\Debug\netcoreapp3.1\16Polimorfismo.dll
+C:\Users\uwu\source\repos\16Polimorfismo\16Polimorfismo\obj\Debug\netcoreapp3.1\16Polimorfismo.pdb
